@@ -1,0 +1,11 @@
+Buen dia.
+
+La aplicacion quedo de la siguiente manera.
+
+Se realizo un api rest con Net CORE 6 realizando los 4 metodos de un api rest (GET, POST, PUT, DELETE).
+Cada uno de estos metodos realiza cambios en la BD de PostgreSQL. La conexion fue exitosa.
+Me falto realizar el consumo del servicio, esto para realizar la funcionalidad requerida.
+
+No pude completarlo al 100 debido a que postgresql es un gestor practicamente nuevo para mi, y algunas cosas como Querys que manejo en SQL en PostgreSQL no funcionan.
+
+De igual manera en Net Core, no tengo conocimientos y si se me complico un poco realizar el servicio.

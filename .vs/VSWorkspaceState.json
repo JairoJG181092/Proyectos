@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EvaluacionTecnica",
+    "\\EvaluacionTecnica\\EvaluacionTecnica"
   ],
-  "SelectedNode": "\\C:\\RepositorioProyectos",
+  "SelectedNode": "\\EvaluacionTecnica\\EvaluacionTecnica\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

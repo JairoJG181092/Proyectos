@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "Microsoft.AspNetCore.JsonPatch/5.0.13": {
         "type": "package",
         "dependencies": {
@@ -88,10 +88,10 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-          "lib/net5.0/Npgsql.dll": {}
+          "lib/net6.0/Npgsql.dll": {}
         },
         "runtime": {
-          "lib/net5.0/Npgsql.dll": {}
+          "lib/net6.0/Npgsql.dll": {}
         }
       },
       "Swashbuckle.AspNetCore/5.6.3": {
@@ -151,10 +151,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {}
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -469,7 +469,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 5.0.13",
       "Newtonsoft.Json >= 13.0.1",
       "Npgsql >= 6.0.3",
@@ -501,15 +501,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -520,8 +520,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",

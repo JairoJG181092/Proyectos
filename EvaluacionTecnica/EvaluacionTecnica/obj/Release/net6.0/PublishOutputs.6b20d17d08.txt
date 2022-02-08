@@ -1,0 +1,16 @@
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\EvaluacionTecnica.exe
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\EvaluacionTecnica.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\EvaluacionTecnica.deps.json
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\EvaluacionTecnica.runtimeconfig.json
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\EvaluacionTecnica.pdb
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Npgsql.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RepositorioProyectos\EvaluacionTecnica\EvaluacionTecnica\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

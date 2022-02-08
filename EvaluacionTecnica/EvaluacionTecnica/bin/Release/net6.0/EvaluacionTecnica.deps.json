@@ -1,0 +1,224 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EvaluacionTecnica/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "5.0.13",
+          "Newtonsoft.Json": "13.0.1",
+          "Npgsql": "6.0.3",
+          "Swashbuckle.AspNetCore": "5.6.3"
+        },
+        "runtime": {
+          "EvaluacionTecnica.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.JsonPatch/5.0.13": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.JsonPatch.dll": {
+            "assemblyVersion": "5.0.13.0",
+            "fileVersion": "5.0.1321.57202"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson/5.0.13": {
+        "dependencies": {
+          "Microsoft.AspNetCore.JsonPatch": "5.0.13",
+          "Newtonsoft.Json": "13.0.1",
+          "Newtonsoft.Json.Bson": "1.0.2"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
+            "assemblyVersion": "5.0.13.0",
+            "fileVersion": "5.0.1321.57202"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
+      "Microsoft.OpenApi/1.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Newtonsoft.Json.Bson/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.2.22727"
+          }
+        }
+      },
+      "Npgsql/6.0.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Npgsql.dll": {
+            "assemblyVersion": "6.0.3.0",
+            "fileVersion": "6.0.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/5.6.3": {
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "5.6.3",
+          "Swashbuckle.AspNetCore.SwaggerGen": "5.6.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "5.6.3"
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/5.6.3": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "5.6.3.0",
+            "fileVersion": "5.6.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "5.6.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "5.6.3.0",
+            "fileVersion": "5.6.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
+        "runtime": {
+          "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "5.6.3.0",
+            "fileVersion": "5.6.3.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+    }
+  },
+  "libraries": {
+    "EvaluacionTecnica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.JsonPatch/5.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tk0xrkaptL7KXi5yjxGdAnbJ+fWTDrrf3z+/hoA3cubbIE9D+1Wvj6bNtc9jQq7S+NVvBmK+/PNY0w+zt2f/yg==",
+      "path": "microsoft.aspnetcore.jsonpatch/5.0.13",
+      "hashPath": "microsoft.aspnetcore.jsonpatch.5.0.13.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Mvc.NewtonsoftJson/5.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B1Gxcf7i2KbUwgRo88enZczstB51MFIpUcXM0D4i4UuR4d43UxMRZ1WJqTCnIaeWCpBUE56/QX515BcGc+OkGw==",
+      "path": "microsoft.aspnetcore.mvc.newtonsoftjson/5.0.13",
+      "hashPath": "microsoft.aspnetcore.mvc.newtonsoftjson.5.0.13.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
+      "path": "microsoft.extensions.apidescription.server/3.0.0",
+      "hashPath": "microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "path": "microsoft.openapi/1.2.3",
+      "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Bson/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "path": "newtonsoft.json.bson/1.0.2",
+      "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    },
+    "Npgsql/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yt/3XFRhHsJ01a4+qHM9+0mtitQ3DY2wJLyGP9vtvZa1cB1nSAw762GJGdSX3Bbc7wZKzeo4dc4drD3yvQe7gA==",
+      "path": "npgsql/6.0.3",
+      "hashPath": "npgsql.6.0.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore/5.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
+      "path": "swashbuckle.aspnetcore/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.5.6.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/5.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rn/MmLscjg6WSnTZabojx5DQYle2GjPanSPbCU3Kw8Hy72KyQR3uy8R1Aew5vpNALjfUFm2M/vwUtqdOlzw+GA==",
+      "path": "swashbuckle.aspnetcore.swagger/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/5.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CkhVeod/iLd3ikVTDOwG5sym8BE5xbqGJ15iF3cC7ZPg2kEwDQL4a88xjkzsvC9oOB2ax6B0rK0EgRK+eOBX+w==",
+      "path": "swashbuckle.aspnetcore.swaggergen/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/5.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
+      "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    }
+  }
+}
